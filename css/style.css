@@ -145,11 +145,11 @@ img {
   color: var(--slate-color);
 }
 
-.nav-address .list .link {
+.header-container .link {
   transition: color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
-.list .link:hover,
-.link:focus {
+.header-container .link:hover,
+.header-container .link:focus {
   color: var(--ocean-color);
 }
 
