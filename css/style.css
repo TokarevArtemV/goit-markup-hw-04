@@ -43,7 +43,8 @@ ol {
 
 body {
   background-color: var(--white-color);
-  font-family: "Roboto", sans-serif;
+  font-family: "DM Sans", sans-serif;
+
   color: var(--slate-color);
   line-height: 1.5;
   letter-spacing: 0.02em;
@@ -163,7 +164,7 @@ img {
       rgba(46, 47, 66, 0.7),
       rgba(46, 47, 66, 0.7)
     ),
-    url(/images/people-office.jpg);
+    url(../images/people-office.jpg);
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
