@@ -43,8 +43,7 @@ ol {
 
 body {
   background-color: var(--white-color);
-  font-family: "DM Sans", sans-serif;
-
+  font-family: 'Roboto', sans-serif;
   color: var(--slate-color);
   line-height: 1.5;
   letter-spacing: 0.02em;
@@ -173,7 +172,7 @@ img {
 }
 .section-solution-container {
   max-width: 496px;
-  width: 100%;
+  
   align-items: center;
   margin: 0 auto;
   margin-bottom: 48px;
