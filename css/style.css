@@ -437,7 +437,7 @@ img {
   line-height: 1.5;
   letter-spacing: 0.02em;
   background-color: var(--iris-color);
-  top: 0;
+  bottom: 0;
   left: 0;
   height: 100%;
   transform: translateY(100%);
