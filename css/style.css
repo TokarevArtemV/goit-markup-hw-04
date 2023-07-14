@@ -172,8 +172,7 @@ img {
 }
 .section-solution-container {
   max-width: 496px;
-  
-  align-items: center;
+    align-items: center;
   margin: 0 auto;
   margin-bottom: 48px;
 }
@@ -434,8 +433,7 @@ img {
   position: absolute;
   padding: 40px 32px;
   color: var(--cloud-color);
-  font-family: Roboto;
-  font-size: 16px;
+    font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
   background-color: var(--iris-color);
